@@ -7,7 +7,7 @@ Hw1:  <br>  [Questions_Hw1](https://github.com/anweshapaul-bib/Computer-Vision/b
   
 
 Hw2:  <br>  [Questions_Hw2](https://github.com/anweshapaul-bib/Computer-Vision/blob/main/Assignments/Questions/cv_hw2.pdf)  <br> 
- [MySolutions_Hw2](https://github.com/anweshapaul-bib/Computer-Vision/blob/main/Assignments/Assignment_2/Assignment_2.ipynb)
+ [MySolutions_Hw2](https://github.com/anweshapaul-bib/Computer-Vision/blob/main/Assignments/Assignment_2/)
 - Computing image homographies
 - Applications of image homographies: Image Registration, Image Stitching
 
