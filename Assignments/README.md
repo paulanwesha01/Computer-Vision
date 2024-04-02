@@ -1,4 +1,4 @@
-## CVSN Assignments - CMI
+# CVSN Assignments - CMI
 
 Hw1:  <br>  [Questions_Hw1](https://github.com/anweshapaul-bib/Computer-Vision/blob/main/Assignments/Questions/cv_hw1.pdf) <br> [MySolutions_Hw1](https://github.com/anweshapaul-bib/Computer-Vision/blob/main/Assignments/Assignment_1/Assignment_1.ipynb)
 - Basic OpenCV operations like reading images, accessing regions, computing differences
