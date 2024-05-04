@@ -33,6 +33,16 @@ The FSGA algorithm is a computationally efficient and successful method for gene
 
 ## Results
 
-The project presents saliency maps and adversarial examples generated using different CNN architectures (Custom CNN, ResNet18, ResNet50, and VGG16) for various classes like cats, dogs, bears, monkeys, and rabbits.
+The project presents saliency maps and adversarial examples generated using different CNN architectures (Custom CNN, ResNet18, ResNet50, and VGG16) for various classes like cats, dogs, bears, monkeys, and rabbits. The best result was obtained for ResNet50
 
-![Resnet_50_CAT](outputs/ResNet50/output1.jpg)
+ResNet-50
+
+![Resnet_50_CAT](outputs/ResNet50/output1.png)
+![Resnet_50_CAT](outputs/ResNet50/output2.png) 
+![Resnet_50_CAT](outputs/ResNet50/output3.png)
+![Resnet_50_CAT](outputs/ResNet50/output4.png) 
+![Resnet_50_CAT](outputs/ResNet50/output5.png)
+
+
+The ResNet50 architecture likely outperformed the custom CNN, ResNet18, and VGG16 in generating saliency maps due to its greater depth and complexity, the use of residual connections (which facilitate better gradient flow), and its training on the large, diverse, and fine-grained ImageNet dataset. The combination of these factors allowed ResNet50 to learn more robust and detailed features, leading to better identification and highlighting of relevant regions in the input images for saliency map generation.
+
