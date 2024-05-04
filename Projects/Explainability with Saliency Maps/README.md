@@ -2,6 +2,8 @@
 
 This project explores various techniques for visualizing and understanding the decision-making process of Convolutional Neural Networks (CNNs) using saliency maps. The main focus is on the Saliency Mapping technique, which highlights the regions of an image that contribute the most to the CNN's output prediction.
 
+Saliency maps in deep learning were first witnessed in the paper titled Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps: https://arxiv.org/abs/1312.6034. Our project is an implementation of the image-specific Class Saliency Visualisation method described in this paper.
+
 ## Motivation
 
 Despite the excellent performance of CNNs in computer vision tasks, understanding why they perform well has been a challenge. Visualizing the parameters and extracted features of CNNs can provide useful insights into their internal workings. This project aims to improve the explainability and interpretability of CNNs through visualization techniques.
