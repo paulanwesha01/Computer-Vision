@@ -30,3 +30,14 @@ Hw5:  <br>  [Questions_Hw5](https://github.com/anweshapaul-bib/Computer-Vision/b
 - Fourier transforms and analysis in frequency domain  
 - Design and implementation of frequency domain filters
 - Comparing spatial vs frequency domain filtering methods
+
+
+Hw6:  <br>  [Questions_Hw6](https://github.com/anweshapaul-bib/Computer-Vision/blob/main/Assignments/Assignment_Problems/cv_hw6.pdf)  <br> 
+ [MySolutions_Hw6](https://github.com/anweshapaul-bib/Computer-Vision/blob/main/Assignments/Assignment_5/Assignment_6.ipynb)
+- Image noise and de-noising:
+  - Adding different types of noise (Gaussian, salt-and-pepper, periodic)
+  - Applying various de-noising filters (smoothing Gaussian filter, median filter, notch filter)
+  - Using ideal, Gaussian, and Butterworth notch filters
+- Thresholding comparisons: Manual thresholding, Global thresholding, Otsu's method, Adaptive thresholding (mean and Gaussian) 
+- Edge detection techniques: Sobel kernel, Laplacian of Gaussian (LoG) and zero crossings, Canny edge detector, Hough transform
+- Segmentation techniques: Clustering, Superpixels, GrabCut, Watersheds
